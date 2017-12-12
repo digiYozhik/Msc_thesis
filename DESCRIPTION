@@ -1,0 +1,14 @@
+Package: msc_thesis
+Type: Package
+Title: Functions to support master thesis
+Version: 1.0.0
+Date: 2014-12-30
+Author: Ruud Derijcker <ruud.derijcker@gmail.com>
+Maintainer: Ruud Derijcker <ruud.derijcker@gmail.com>
+Description: The package holds the data and user defined functionalities used
+    in the analyses in the master thesis of Ruud Derijcker.
+LazyLoad: yes
+LazyData: yes
+License: free
+Depends: R (>= 3.1.1), synbreed, coda,BGLR, ggplot2
+Packaged: 2015-01-04 20:24:36 UTC
